@@ -68,16 +68,16 @@
     <h3>Pro Ropa</h3>
     <p>Ecommerce de Ropa Masculina</p>
     <p>Tecnologías | React - Redux | Node - Express - PostgreSQL </p>
-    <img alt='NFT Market 1' src='https://user-images.githubusercontent.com/92419425/182440652-0b15e962-ae4c-4dce-bbe8-e4fa537eb463.png' />
-    <img alt='NFT Market 2' src='https://user-images.githubusercontent.com/92419425/182439925-dd0045ed-bcf0-442f-9911-3bb0c6b18fe5.png' />
-    <img alt='NFT Market 3' src='https://user-images.githubusercontent.com/92419425/182440005-5d79a870-f600-4347-905a-0f3d43a2ac3c.png' />
+  ![image](https://user-images.githubusercontent.com/92419425/182710755-bcc5d501-cac8-4153-a22e-e8dd2dab539e.png)
+  <img alt='NFT Market 1' src='https://user-images.githubusercontent.com/92419425/182440652-0b15e962-ae4c-4dce-bbe8-e4fa537eb463.png' />
+    
 
   <h3>API Paises</h3>
   <p>Plataforma de Paises</p>
   <p>Tecnologías | React - Redux | Node - Express - PostgreSQL </p>
-  <img alt='home' src='https://user-images.githubusercontent.com/57506571/172264108-16f191ef-0221-4979-9703-ba8e42d636cf.PNG' />
-  <img alt='home filtrado' src='https://user-images.githubusercontent.com/57506571/172264116-a2130be7-9d1a-43cd-b537-a128e7b78341.PNG' />
-  <img alt='formulario crear' src='https://user-images.githubusercontent.com/57506571/172264120-9d8e781e-6885-4604-8a7d-d946536dd7ca.PNG' />
+  <img alt='1' src='https://user-images.githubusercontent.com/92419425/182440652-0b15e962-ae4c-4dce-bbe8-e4fa537eb463.png' />
+  <img alt='2' src='https://user-images.githubusercontent.com/92419425/182439925-dd0045ed-bcf0-442f-9911-3bb0c6b18fe5.png' />
+  <img alt='3' src='https://user-images.githubusercontent.com/92419425/182440005-5d79a870-f600-4347-905a-0f3d43a2ac3c.png' />
 </div>
 
 <div> 
