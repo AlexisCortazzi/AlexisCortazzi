@@ -68,10 +68,9 @@
     <h3>Pro Ropa</h3>
     <p>Ecommerce de Ropa Masculina</p>
     <p>Tecnologías | React - Redux | Node - Express - PostgreSQL </p>
-    <img alt='NFT Market 1' src='https://user-images.githubusercontent.com/57506571/172021063-2b08c060-2a2d-49a2-ac0a-75715ea1c867.png' />
-    <img alt='NFT Market 2' src='https://user-images.githubusercontent.com/57506571/172022647-fe11fd2c-461c-48a9-887d-1f52f7647d14.png' />
-    <img alt='NFT Market 3' src='https://user-images.githubusercontent.com/57506571/172022649-ceeae63f-b825-4132-8deb-b09102c80fe1.png' />
-    <img alt='NFT Market 4' src='https://user-images.githubusercontent.com/57506571/172022657-c122fb11-9d4c-4455-9c4a-36bfc9bc6dd4.png' />
+    <img alt='NFT Market 1' src='https://user-images.githubusercontent.com/92419425/182440652-0b15e962-ae4c-4dce-bbe8-e4fa537eb463.png />
+    <img alt='NFT Market 2' src='https://user-images.githubusercontent.com/92419425/182439925-dd0045ed-bcf0-442f-9911-3bb0c6b18fe5.png' />
+    <img alt='NFT Market 3' src='https://user-images.githubusercontent.com/92419425/182440005-5d79a870-f600-4347-905a-0f3d43a2ac3c.png' />
 
   <h3>API Paises</h3>
   <p>Plataforma de Paises</p>
