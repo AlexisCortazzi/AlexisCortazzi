@@ -68,8 +68,7 @@
     <h3>Pro Ropa</h3>
     <p>Ecommerce de Ropa Masculina</p>
     <p>Tecnologías | React - Redux | Node - Express - PostgreSQL </p>
-  ![image](https://user-images.githubusercontent.com/92419425/182710755-bcc5d501-cac8-4153-a22e-e8dd2dab539e.png)
-  <img alt='NFT Market 1' src='https://user-images.githubusercontent.com/92419425/182440652-0b15e962-ae4c-4dce-bbe8-e4fa537eb463.png' />
+  <img alt='NFT Market 1' src='https://user-images.githubusercontent.com/92419425/182710755-bcc5d501-cac8-4153-a22e-e8dd2dab539e.png' />
     
 
   <h3>API Paises</h3>
